@@ -1,5 +1,6 @@
 # lua_learn
-Lua源码学习，主要是用来问问题的
+
+Lua源码学习，主要是用来问问题的。
 
 # sth
 - [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/) | [云风 译 Lua 5.1 参考手册](http://www.codingnow.com/2000/download/lua_manual.html)
@@ -75,3 +76,4 @@ Read all the other files as you see references to them. Don't let your
 stack get too deep though.
 
 source: [Reddit comment](http://www.reddit.com/comments/63hth/ask_reddit_which_oss_codebases_out_there_are_so/c02pxbp)
+
